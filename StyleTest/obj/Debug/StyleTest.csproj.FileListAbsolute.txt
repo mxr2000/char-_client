@@ -1,0 +1,15 @@
+D:\Programs\csharp\wpf\ChatClient\StyleTest\bin\Debug\StyleTest.exe.config
+D:\Programs\csharp\wpf\ChatClient\StyleTest\bin\Debug\StyleTest.exe
+D:\Programs\csharp\wpf\ChatClient\StyleTest\bin\Debug\StyleTest.pdb
+D:\Programs\csharp\wpf\ChatClient\StyleTest\obj\Debug\StyleTest.csprojAssemblyReference.cache
+D:\Programs\csharp\wpf\ChatClient\StyleTest\obj\Debug\MainWindow.g.cs
+D:\Programs\csharp\wpf\ChatClient\StyleTest\obj\Debug\App.g.cs
+D:\Programs\csharp\wpf\ChatClient\StyleTest\obj\Debug\StyleTest_MarkupCompile.cache
+D:\Programs\csharp\wpf\ChatClient\StyleTest\obj\Debug\StyleTest_MarkupCompile.lref
+D:\Programs\csharp\wpf\ChatClient\StyleTest\obj\Debug\MainWindow.baml
+D:\Programs\csharp\wpf\ChatClient\StyleTest\obj\Debug\StyleTest.g.resources
+D:\Programs\csharp\wpf\ChatClient\StyleTest\obj\Debug\StyleTest.Properties.Resources.resources
+D:\Programs\csharp\wpf\ChatClient\StyleTest\obj\Debug\StyleTest.csproj.GenerateResource.cache
+D:\Programs\csharp\wpf\ChatClient\StyleTest\obj\Debug\StyleTest.csproj.CoreCompileInputs.cache
+D:\Programs\csharp\wpf\ChatClient\StyleTest\obj\Debug\StyleTest.exe
+D:\Programs\csharp\wpf\ChatClient\StyleTest\obj\Debug\StyleTest.pdb
